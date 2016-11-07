@@ -109,7 +109,4 @@
    <FileRef
       location = "group:Preprocessor/Preprocessor.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:RxExample/RxExample.xcodeproj">
-   </FileRef>
 </Workspace>
